@@ -47,5 +47,3 @@ Learning resources
 * [Getting Started with Tableau Desktop](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-tableau-desktop-beginner-intermediate) (Beginner to Intermediate)
 * [Creating a Tableau Dashboard Using COVID-19 Data](https://mdl.library.utoronto.ca/technology/tutorials/creating-tableau-dashboard-using-covid-19-data-intermediate) (Intermediate)
 * [Tableau Workshop Demonstration Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/tableau-workshop-demonstration-tutorial) (Beginner)
-
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization) | Tools: [Tableau](https://mdl.library.utoronto.ca/tools/tableau)
