@@ -40,4 +40,4 @@ Learning resources
 * [Creating a Tableau Dashboard Using COVID-19 Data](https://mdlutoronto.github.io/tableau-creating-dashboard-covid19-data-intermediate/) (Intermediate)
 * [Tableau Workshop Demonstration Tutorial](https://mdlutoronto.github.io/tableau-workshop-demonstration-tutorial/) (Beginner)
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
