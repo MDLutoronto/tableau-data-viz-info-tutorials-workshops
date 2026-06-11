@@ -14,6 +14,6 @@ created_date: 2022-05-04
 Getting started
 ---------------
 
-* Everyone can get the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download) (Note: All the courses/workshops/tutorials were designed for Tableau Desktop, the paid version of Tableau, which used to be available to students; however, now only Tableau Public is available. Tableau Public is very similar to Tableau Desktop and so the resources are still applicable. Notes on the differences will be found throughout the resources.)
+* Everyone can get the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download) (Note: All the courses/workshops/tutorials were designed for [Tableau Desktop](https://www.tableau.com/products/desktop), the paid version of Tableau, which used to be available to students; however, now only Tableau Public is available. Tableau Public is very similar to Tableau Desktop and so the resources are still applicable. Notes on the differences will be found throughout the resources.)
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

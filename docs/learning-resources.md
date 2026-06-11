@@ -22,7 +22,7 @@ Learning resources
 ### Workshops
 
 * [Introduction to Using Tableau Public to Create Data Visualizations](https://play.library.utoronto.ca/watch/8eed5439dd6e47a2a37f7fd96d271e07)
-	+ To follow along with the workshop, please [review the setup instructions](https://maps.library.utoronto.ca/workshops/Tableau2022/SetupInstructions.pdf) where you can download the slides, sample datasets, and accompanying handouts
+	+ To follow along with the workshop, please [review the setup instructions](https://maps.library.utoronto.ca/workshops/Tableau2022/SetupInstructions.pdf) where you can download the slides, sample datasets, and accompanying handouts *(Note: The video below starts with a slide that says Tableau Desktop, but that is an error. It should say Tableau Public.)*
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/8eed5439dd6e47a2a37f7fd96d271e07" frameborder="0" allowfullscreen=""> iframe not supported </iframe>
 
