@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-parent: Data Visualization and Tableau:Information, Tutorials, and Workshops
+parent: "Data Visualization and Tableau: Information, Tutorials, and Workshops"
 nav_order: 1
 layout: default
 staff:

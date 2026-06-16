@@ -1,6 +1,6 @@
 ---
 title: Learning Resources
-parent: Data Visualization and Tableau:Information, Tutorials, and Workshops
+parent: "Data Visualization and Tableau: Information, Tutorials, and Workshops"
 nav_order: 2
 layout: default
 staff:
