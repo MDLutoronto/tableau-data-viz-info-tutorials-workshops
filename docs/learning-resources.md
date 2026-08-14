@@ -34,10 +34,9 @@ Learning resources
 
 ### Tutorials & Guides
 
-* [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
+* [Data Visualization Guide](https://guides.library.utoronto.ca/datavisualization)
 * [Creating Data Visualizations Using Tableau Desktop](https://mdlutoronto.github.io/tableau-creating-data-viz-beginner/) (Beginner)
 * [Getting Started with Tableau Desktop](https://mdlutoronto.github.io/tableau-beginner-intermediate/) (Beginner to Intermediate)
-* [Creating a Tableau Dashboard Using COVID-19 Data](https://mdlutoronto.github.io/tableau-creating-dashboard-covid19-data-intermediate/) (Intermediate)
 * [Tableau Workshop Demonstration Tutorial](https://mdlutoronto.github.io/tableau-workshop-demonstration-tutorial/) (Beginner)
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
